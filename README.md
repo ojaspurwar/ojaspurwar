@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate with anyone from whom I can learn
 - 📫 How to reach me -- Mail= ojaspurwar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a teenager
 
 <!---
 OjasPurwar/OjasPurwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
