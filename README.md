@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @OjasPurwar
-- 👀 I’m interested in Video Editing, Programming etc
-- 🌱 I’m currently on a stage where i can learn anything
-- 💞️ I’m looking to collaborate with anyone from whom I can learn
-- 📫 How to reach me -- Mail= ojaspurwar@gmail.com
-- 😄 Pronouns: He/Him
+# Hi there, I'm Ojas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-<!---
-OjasPurwar/OjasPurwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Software+Developer+In+Training;Linux+%26+Customization+Lover" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ojaspurwar&style=for-the-badge&color=00B4D8" alt="Profile Views" />
+</p>
+
+---
+
+### 🚀 About Me
+
+```text
+  _   _   _   _   _   _   _   _   _ 
+ / \ / \ / \ / \ / \ / \ / \ / \ / \
+( O | j | a | s | _ | P | u | r | w | a | r )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
