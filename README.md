@@ -34,3 +34,4 @@
 
 - **Email:** [ojaspurwar@hotmail.com](mailto:ojaspurwar@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/ojas-purwar-0377ba30a](https://www.linkedin.com/in/ojas-purwar-0377ba30a)
+- **Instagram:** (https://www.instagram.com/ojas_purwar/)
