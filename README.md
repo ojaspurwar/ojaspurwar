@@ -25,8 +25,11 @@
 ### 1. [PARAKH](https://github.com/your-username/project-1](https://github.com/ojaspurwar/PARAKH-package-commodity-analysis-and-regularity-assessment-knowledge-hub)
 * **Overview:** PARAKH is a full-stack compliance inspection platform that enables enforcement officers to scan packaged retail products, extract declared label information using AI vision
 
-### 2. [Project Name 2](https://github.com/your-username/project-2](https://github.com/ojaspurwar/BMU_Community)
+### 2. BMU_Community (https://github.com/your-username/project-2](https://github.com/ojaspurwar/BMU_Community)
 * **Overview:** A Unified Real-Time Campus Operating System & Community Hub for BML Munjal University (BMU)
+
+### 3. StockSense (https://github.com/your-username/project-3](https://github.com/ojaspurwar/Stock_Sense)
+* **Overview** LPU x Odoo Hackathon Project.
 
 ---
 
